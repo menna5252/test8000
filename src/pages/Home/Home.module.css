@@ -1,11 +1,11 @@
 
 .wrapperhomenew {
-  display: flex !important;
-  flex-direction: column !important;
-  justify-content: center !important;
-  align-items: center !important;
-  background-color: #1abc9c !important;
-  color: white !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1abc9c;
+  color: white;
 }
 
 .separator {
