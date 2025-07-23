@@ -9,7 +9,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 export default function Home() {
   console.log("🚀 styles:", styles);
   return (
-  <div className={`${styles.wrapperhomenew} test-debug`}>
+  <div className={`${styles.wrapperhomenew}`}>
 
 
 
