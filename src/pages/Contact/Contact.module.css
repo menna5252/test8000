@@ -1,0 +1,13 @@
+.wrapper{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.btn_submit{
+      background-color: #1abc9c;
+      border: none;
+      float: left;
+
+}

@@ -1,0 +1,11 @@
+.navbar_wrapper{
+    background-color: #2c3e50;
+    color: white !important;
+    text-decoration: none;
+    font-size: 30px;
+}
+.navbar_brand{
+    color: white !important;
+    margin: 15px;
+    text-decoration: none;
+}

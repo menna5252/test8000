@@ -1,0 +1,13 @@
+.wrapper{
+  background-color: #1abc9c;
+color: white;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.separator{
+    width: 100px;
+    height: 5px;
+   background-color: white;
+}

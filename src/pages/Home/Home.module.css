@@ -1,0 +1,15 @@
+
+.wrapperhomenew {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background-color: #1abc9c !important;
+  color: white !important;
+}
+
+.separator {
+  width: 100px;
+  height: 5px;
+  background-color: white;
+}

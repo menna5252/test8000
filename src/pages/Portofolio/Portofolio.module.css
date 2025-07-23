@@ -1,0 +1,20 @@
+.popup{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin: 5px;
+}
+ img{
+    width: 100%;
+}
+.modal{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    background-color: blanchedalmond;
+    margin: 20px;
+}
