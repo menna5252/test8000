@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export default function Home() {
-  console.log("🚀 styles:", styles);
+  console.log("🚀 styles:", styles['wrapperhomenew']);
   return (
   <div className={`${styles.wrapperhomenew}`}>
 
